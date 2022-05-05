@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div>
     <ul>
       <li>I'm Brazilian, living in Recife</li>
-      <li>I'm a Backend developer working with Java/Kotlin, studying Python, and trying to be better at Spring Boot 😄</li>
+      <li>I'm a Backend developer working with Kotlin, studying Python, and trying to be better at Spring 😄</li>
       <li>I'm also a facilitator and monitor @ <a href="https://github.com/reprograma"> Reprograma</a> </li>
       <li>I can talk for hours about field trips, music, REST APIs, cats, art, poetry
       </li>
