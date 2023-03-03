@@ -5,28 +5,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div>
-    <ul>
-      <li>I'm Brazilian, living in Recife</li>
-      <li>I'm a Backend developer working with Kotlin, studying Python, and trying to be better at Spring 😄</li>
-      <li>I'm also a facilitator and monitor @ <a href="https://github.com/reprograma"> Reprograma</a> </li>
-      <li>I can talk for hours about field trips, music, REST APIs, cats, art, poetry
-      </li>
-      <li>Fun fact: I was studying to become a master in management/administration and worked as a finance leader before becoming a developer</li>
-      <li>Here you will probably find a lot of unfinished projects.</li>
-    </ul>
-  </div>
-Make yourself comfortable! I'm always open to pull requests.
+I'm Maria Priscila, a backend developer currently living in Recife, Brazil. I work with Kotlin and I'm studying Python while improving my skills in Spring. I'm also a facilitator and monitor for the programming course @Reprograma.
 
-You can reach me by email at pry16rocha@gmail.com
+I love talking about various topics, such as traveling, music, REST APIs, cats, art, and poetry. A fun fact about me is that I was studying to become a master in management/administration and worked as a finance leader before becoming a developer.
 
-<br/>
+Here on my Github, you'll find many projects in progress and in different stages of development.
+
+Feel free to make a pull request and collaborate with my projects.
+
+You can contact me via email: pry16rocha@gmail.com
