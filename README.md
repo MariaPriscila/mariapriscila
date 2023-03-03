@@ -1,8 +1,7 @@
-Linkedin Badge
-GitHub Badge
-Email Badge
 
-Hello! 👋 I'm Maria Priscila, a backend developer currently living in Recife, Brazil. I work with Kotlin and I'm studying Python while improving my skills in Spring. I'm also a facilitator and monitor for the programming course @Reprograma.
+###Hello! 👋 
+
+I'm Maria Priscila, a backend developer currently living in Recife, Brazil. I work with Kotlin and I'm studying Python while improving my skills in Spring. I'm also a facilitator and monitor for the programming course @Reprograma.
 
 I love talking about various topics, such as traveling, music, REST APIs, cats, art, and poetry. A fun fact about me is that I was studying to become a master in management/administration and worked as a finance leader before becoming a developer.
 
