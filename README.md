@@ -1,5 +1,5 @@
 
-###Hello! 👋 
+Hello! 👋 
 
 I'm Maria Priscila, a backend developer currently living in Recife, Brazil. I work with Kotlin and I'm studying Python while improving my skills in Spring. I'm also a facilitator and monitor for the programming course @Reprograma.
 
