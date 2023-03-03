@@ -2,7 +2,6 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>Hi there 👋</title>
   </head>
   <body>
     <h3>Hi there 👋</h3>
