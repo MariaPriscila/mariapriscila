@@ -1,18 +1,17 @@
 
-Hello! 👋 
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Apresentação - Maria Priscila</title>
+</head>
+<body>
+  <h1>Olá! 👋</h1>
+  <p>Sou a Maria Priscila, desenvolvedora backend, estudando Python e me aprimorando em Spring. Atualmente, moro em Recife, Brasil. Além disso, sou facilitadora e monitora do curso de programação @Reprograma.</p>
+  <p>Gosto de falar sobre diversos assuntos, como viagens, música, APIs REST, gatos, arte e poesia. Inclusive, um fato curioso sobre mim é que fiz transição de carreira, estava estudando para ser mestre em gestão, trabalhava como líder do setor financeiro antes de me tornar desenvolvedora.</p>
+  <p>Aqui no meu Github, você pode encontrar diversos projetos em andamento e em diferentes estágios de desenvolvimento.</p>
+  <p>Sinta-se à vontade para fazer um pull request e colaborar com meus projetos.</p>
+  <p>Você pode entrar em contato comigo por e-mail: <a href="mailto:pry16rocha@gmail.com">pry16rocha@gmail.com</a>.</p>
+</body>
+</html>
 
-I'm Maria Priscila, a backend developer currently living in Recife, Brazil. I work with Kotlin and I'm studying Python while improving my skills in Spring. I'm also a facilitator and monitor for the programming course @Reprograma.
-
-I love talking about various topics, such as traveling, music, REST APIs, cats, art, and poetry. A fun fact about me is that I was studying to become a master in management/administration and worked as a finance leader before becoming a developer.
-
-🔭 Projects
-
-Here on my Github, you'll find many projects in progress and in different stages of development.
-
-👯 Collaborate
-
-Feel free to make a pull request and collaborate with my projects.
-
-📫 Contact
-
-You can contact me via email: pry16rocha@gmail.com.
